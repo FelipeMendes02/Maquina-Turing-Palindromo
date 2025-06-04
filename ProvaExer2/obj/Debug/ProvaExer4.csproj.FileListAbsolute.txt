@@ -1,0 +1,10 @@
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\bin\Debug\ProvaExer4.exe.config
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\bin\Debug\ProvaExer4.exe
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\bin\Debug\ProvaExer4.pdb
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.csproj.AssemblyReference.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.Form1.resources
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.Properties.Resources.resources
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.csproj.GenerateResource.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.csproj.CoreCompileInputs.cache
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.exe
+C:\Users\biel0\OneDrive\Área de Trabalho\automatos\ProvaExer4\obj\Debug\ProvaExer4.pdb
